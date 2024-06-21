@@ -56,7 +56,7 @@ body{
 }
 #home::before {
     content: "";
-    background: url('imgs/840843081452.jpg') no-repeat center center/cover;
+    background: url('840843081452.jpg') no-repeat center center/cover;
     /* filter: blur(5px); */
     position: absolute;
     height: 93%;
@@ -116,7 +116,7 @@ body{
 }
 #about::before {
     content: "";
-    background: url('imgs/840843081452.jpg') no-repeat center center/cover;
+    background: url('840843081452.jpg') no-repeat center center/cover;
     /* filter: blur(5px); */
     position: absolute;
     height: 93%;
@@ -208,7 +208,7 @@ body{
 #skills::before {
     content: "";
     /* background-image: linear-gradient(to bottom right,rgb(0, 0, 0),rgb(53, 33, 80),rgb(209, 16, 141),rgb(93, 0, 255),black); */
-    background: url('imgs/347317299795.jpg') no-repeat center center/cover;
+    background: url('347317299795.jpg') no-repeat center center/cover;
     /* background-image: linear-gradient(to bottom right,rgb(9, 3, 36),rgb(9,3,36),rgba(2, 2, 255, 0.744)); */
     /* filter: blur(5px); */
     position: absolute;
@@ -295,7 +295,7 @@ body{
 }
 #projects::before {
     content: "";
-    background: url('imgs/774418072505.jpg') repeat-y center center/cover;
+    background: url('774418072505.jpg') repeat-y center center/cover;
     /* background-image: linear-gradient(to bottom right,rgb(9, 3, 36),rgb(9,3,36),rgba(2, 2, 255, 0.744)); */
     background-repeat: repeat-y;
     /* filter: blur(5px); */
@@ -332,7 +332,7 @@ body{
 }
 #projects .content-wrapper::before {
     content: "";
-    background: url('imgs/774418072505.jpg') repeat-y center center/cover;
+    background: url('774418072505.jpg') repeat-y center center/cover;
     /* background-image: linear-gradient(to bottom right,rgb(9, 3, 36),rgb(9,3,36),rgba(2, 2, 255, 0.744)); */
     background-repeat: repeat-y;
     /* filter: blur(5px); */
@@ -391,7 +391,7 @@ body{
 }
 #projects .content-wrapper-alternate::before {
     content: "";
-    background: url('imgs/774418072505.jpg') repeat-y center center/cover;
+    background: url('774418072505.jpg') repeat-y center center/cover;
     /* background-image: linear-gradient(to bottom right,rgb(9, 3, 36),rgb(9,3,36),rgba(2, 2, 255, 0.744)); */
     background-repeat: repeat-y;
     /* filter: blur(5px); */
@@ -439,7 +439,7 @@ body{
 }
 #contact::before {
     content: "";
-    background: url('imgs/3d-render-abstract-digital-background-with-flowing-cyber-lines.jpg') no-repeat center center/cover;
+    background: url('3d-render-abstract-digital-background-with-flowing-cyber-lines.jpg') no-repeat center center/cover;
     /* background-image: linear-gradient(to bottom right,rgb(9, 3, 36),rgb(9,3,36),rgba(2, 2, 255, 0.744)); */
     /* filter: blur(5px); */
     position: absolute;
